@@ -54,3 +54,4 @@ To keep PRs small and easier to test, they should ideally be 1:1 with commits fr
 ## Merging
 
 Pull Requests should be merged/rebased, not squashed, so we can maintain a commit history that is close to QMK Firmware's, for ease of reference.
+# ez_qmk_hold_other_key
